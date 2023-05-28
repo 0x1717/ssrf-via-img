@@ -73,5 +73,10 @@
 `<img src="http://ip-api.com/csv">` | :x: |
 
 + In the example, we converted our html file to epub, but as you can see in the table above, we can see that the vulnerability is triggered not only when converting to epub but also other files.
+---
+-
+-
+-
+-
 
 > #### Created by 0x1717 aka GYG3S

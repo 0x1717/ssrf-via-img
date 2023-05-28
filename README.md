@@ -61,6 +61,7 @@
 
 + I went through all converter processes in pandoc and calibre and found that this vulnerability exists in multiple converters.
 + In the table below, you can examine what types of ssrf are in which files.
++ You can also use the iframe tag instead of the img tag in calibre.
 
 | PANDOC | EPUB | ODT | DOCX | PPTX | FB2 |
 | --- | --- | --- | --- | --- | --- |

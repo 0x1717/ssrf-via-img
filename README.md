@@ -1,4 +1,4 @@
-# :bee: SSRF Vulnerability in PANDOC and CALIBRE
+# :bee: CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE
 -
 -
 -

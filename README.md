@@ -1,6 +1,8 @@
 # :bee: CVE-2023-46303
 ## SSRF Vulnerability in PANDOC and CALIBRE
-### UPDATE: https://nvd.nist.gov/vuln/detail/CVE-2023-46303
+### UPDATE ->
+#### https://nvd.nist.gov/vuln/detail/CVE-2023-46303
+#### https://security.snyk.io/vuln/SNYK-DEBIAN13-CALIBRE-6027875
 -
 -
 -

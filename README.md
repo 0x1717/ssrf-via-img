@@ -1,8 +1,10 @@
-# :bee: CVE-2023-46303 - SSRF Vulnerability in PANDOC and CALIBRE
+# :bee: CVE-2023-46303
+## SSRF Vulnerability in PANDOC and CALIBRE
 -
 -
 -
 -
+- 
 ## :mushroom: PANDOC
 
 ### :spider_web: https://github.com/jgm/pandoc (Pandoc in Github)
